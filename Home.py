@@ -1,4 +1,5 @@
 import streamlit as st
+st.set_page_config(page_title='Salary Analysis', page_icon='📈', layout = 'wide')
 
 with st.container():
     img = 'https://raw.githubusercontent.com/RafaelSanglard/4POA/e56ef29364141507467350fb2d1b0ed20df2f3e3/logo.jpg'
