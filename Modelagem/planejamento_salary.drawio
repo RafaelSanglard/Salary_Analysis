@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" modified="2023-11-13T21:10:56.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="p7N6Nlj7x8viEKp80CE5" version="22.1.0" type="device">
+  <diagram name="Página-1" id="uWHuaEw0loJ0eEZDZPKG">
+    <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-2" value="&lt;h1&gt;Análise Salarial&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="25" y="130" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-3" value="Filtro idade" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="120" width="440" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-5" value="Maior salario país" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="120" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-6" value="Maior salario" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="120" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-7" value="&lt;h1&gt;Mostradores Cargos&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="30" width="279" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="520" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-9" value="&lt;h1&gt;Análise Salarial&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="25" y="530" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-10" value="Filtro idade" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="520" width="440" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-12" value="Menor Idade" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="600" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-13" value="Maior Idade" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="520" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-14" value="&lt;h1&gt;Mostradores Idade&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="450" width="279" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-23" value="Menor salario&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="117.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-24" value="Menor salario país" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="280" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-25" value="Maior salario cargo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="120" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R4zOVvEQRnCWRKD7yIv5-26" value="Menor salario cargo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="280" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-1" value="Top 5 maiores salarios" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="120" width="240" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-2" value="Top 5 menores salarios" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="120" width="240" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-3" value="Média salarial" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="120" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-4" value="Grafico distribuição por idade" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="680" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-5" value="Idade média&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="520" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="120" width="480" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-25" value="Mapa distribuição entrevistados" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="280" width="480" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-30" value="Grafico distribuição por idade" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="520" width="440" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-34" value="Grafico distribuição salário" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="120" width="480" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="940" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-36" value="&lt;h1&gt;Análise Salarial&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="25" y="950" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-37" value="Filtro idade" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1070" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="940" width="440" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-39" value="Maior salario" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1020" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-40" value="Maior salario" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="940" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-41" value="&lt;h1&gt;Mostradores &lt;br&gt;Engenheiros de Software&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="870" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-42" value="Idade x salário por nível de educação" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1100" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="940" width="440" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-46" value="idade e salario por raça" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="1100" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-47" value="Idade e salario por genero" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="940" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dMH3w0jYYKg1BhbNgdE5-48" value="Média" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="940" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="t_M8aQFDFJIPYTiCvKfV-1" value="Relação entre salário e País" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="940" width="440" height="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
